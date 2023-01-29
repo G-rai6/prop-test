@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/G-rai6/prop-test/static/css/main.be0066f4.css",
+    "main.js": "/G-rai6/prop-test/static/js/main.993b2863.js",
+    "static/js/787.0edbcda9.chunk.js": "/G-rai6/prop-test/static/js/787.0edbcda9.chunk.js",
+    "index.html": "/G-rai6/prop-test/index.html",
+    "main.be0066f4.css.map": "/G-rai6/prop-test/static/css/main.be0066f4.css.map",
+    "main.993b2863.js.map": "/G-rai6/prop-test/static/js/main.993b2863.js.map",
+    "787.0edbcda9.chunk.js.map": "/G-rai6/prop-test/static/js/787.0edbcda9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be0066f4.css",
+    "static/js/main.993b2863.js"
+  ]
+}
